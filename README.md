@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working upon my skills<br>👯  I'm an looking to collaborate on some projects related to solving real world problems<br>🌱 I'm currently learning on spring, spring boot<br>⚡ Fun fact : i love coding<br>
+🔭 I'm currently working upon my skills<br>👯  I'm an looking to collaborate on some projects related to solving real world problems<br>🌱 I'm currently learning on spring, spring boot<br>⚡ Fun fact : i love Java<br>
 
 
 ## 🌐 Socials:
