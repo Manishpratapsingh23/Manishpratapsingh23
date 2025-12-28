@@ -1,6 +1,9 @@
 # 💫 About Me:
-🔭 I'm currently working upon javaFX<br>👯  I'm an looking to collaborate on some projects related to solving real world problems<br>🌱 I'm currently learning spring, spring boot<br>⚡ Fun fact : I love Java<br>
-
+🔭 Currently working on JavaFX applications<br>
+👯 Looking to collaborate on projects that solve real-world problems<br>
+🌱 Currently learning Spring & Spring Boot<br>
+💡 Interested in backend development, system design, and applied machine learning<br>
+⚡ Fun fact: Java is my favorite language ☕<br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/afla_toon_87651) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/quebec_ka_romeo_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manish-pratap-singh-20042228b) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/adsfdsds) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Manish23032004) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manishpratap2205@gmail.com) 
